@@ -22,12 +22,12 @@ body {
     border-radius: 15px;
     padding: 20px;
     top: 10%;
-    bottom: 9%;
-    margin: auto;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
-    position: absolute;
+    bottom: 10%;
+    margin: auto;   
+    position: static;
     align-content: center;
-    max-width: 375px;    
+    max-width: 375px;  
+    max-height: 500px;  
 }
 
 .white-wall img {
